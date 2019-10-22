@@ -1,5 +1,7 @@
-3include<stdio.h>
+include<stdio.h>
 void main()
 (
-print("Hello World"):
+ printf("Hello World");
+  
+ printf("\nThis is the Basic C Program)
 )
